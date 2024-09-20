@@ -1,0 +1,8 @@
+# URL y clave pública de Supabase
+NEXT_PUBLIC_SUPABASE_URL=YOUR_KEY
+NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_KEY
+
+# Clave de servicio de Supabase (service_role_secret)
+SUPABASE_SERVICE_ROLE_KEY=YOUR_KEY
+# Configuración de JWT
+NEXT_PUBLIC_SUPABASE_JWT_SECRET=YOUR_KEY
